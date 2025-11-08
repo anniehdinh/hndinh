@@ -1,2 +1,2 @@
 # hndinh
-project assignment for CIS 300 
+This repository contains files for CIS 300 Project Assignments. 
